@@ -122,6 +122,17 @@ body {
   color: deeppink;
 }
 
+#mc_embed_signup .button {
+  border: 2px solid deeppink;
+  background: white;
+  padding: 6px;
+  color: deeppink;
+}
+
+#mc_embed_signup .button:hover {
+  box-shadow: 2px 2px #ff4c00;
+}
+
 #mc-embedded-subscribe.button:hover {
   box-shadow: 2px 2px #ff4c00;
 }

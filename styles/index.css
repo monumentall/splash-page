@@ -83,11 +83,12 @@ body {
   color: #4e4e4e;
   width: 58vw;
   position: relative;
-  max-width: 308px;
+  max-width: 380px;
   padding: 20px;
   display: none;
   position: absolute;
-  left: 16px;
+  border: 4px solid deeppink;
+  left: -16px;
   bottom: 16px;
 }
 

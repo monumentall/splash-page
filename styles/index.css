@@ -107,10 +107,12 @@ body {
   margin: 12px 0;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .mc-field-group input {
   max-height: 20px;
+  margin-left: 6px;
 }
 
 #mc-embedded-subscribe.button {

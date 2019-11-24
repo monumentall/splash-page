@@ -109,18 +109,22 @@ body {
   justify-content: space-between;
 }
 
-#mc-embedded-subscribe {
+.mc-field-group input {
+  max-height: 20px;
+}
+
+#mc-embedded-subscribe.button {
   border: 2px solid deeppink;
   background: white;
   padding: 6px;
   color: deeppink;
 }
 
-#mc-embedded-subscribe:hover {
+#mc-embedded-subscribe.button:hover {
   box-shadow: 2px 2px #ff4c00;
 }
 
-#mc-embedded-subscribe:active {
+#mc-embedded-subscribe.button:active {
   background: #ff0051;
   color: #fefefe;
   box-shadow: 2px 2px #ff4c00;

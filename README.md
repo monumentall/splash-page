@@ -21,7 +21,7 @@ _To be determined_
 
 Steps: 
 - [x] Purchase the domain monumentall.io
-- [ ] Make an "under construction" page and connect it to the domain
+- [x] Make an "under construction" page and connect it to the domain
 - [ ] Draw out thumbnails for several designs
 - [ ] Select the simplest version of the chosen thumbnail and get a static site up
 - [ ] Determine next steps

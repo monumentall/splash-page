@@ -38,7 +38,7 @@ body {
   animation: ColorShift 36s ease infinite;
 }
 
-.title-block p {
+.title-block .tagline {
   font-size: 20px;
 }
 

@@ -38,6 +38,10 @@ body {
   animation: ColorShift 36s ease infinite;
 }
 
+.title-block p {
+  font-size: 20px;
+}
+
 @-webkit-keyframes ColorShift {
   0% {
     background-position: 0% 50%
